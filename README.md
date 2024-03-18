@@ -1,4 +1,4 @@
-[![cover](E:\github仓库\contracts-main\cover.jpg)](https://github.com/gitmanmerlin/contracts-main/blob/main/cover.jpg)
+[![cover](https://github.com/gitmanmerlin/contracts-main/blob/main/cover.jpg)](https://github.com/gitmanmerlin/contracts-main/blob/main/cover.jpg)
 
 # ERC 404
 
